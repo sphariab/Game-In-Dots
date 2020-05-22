@@ -2,6 +2,11 @@ Here is a simple React App Game "GAME IN DOTS"
 
 I used React, MaterialUI, axios for server requests, create-react-app
 
+For installing:
+ - npm install
+ - npm start
+ - go to http://localhost:3000
+
 We have next gameplay:
 - user set game difficulty and name
 - press PLAY
