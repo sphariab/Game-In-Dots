@@ -31,10 +31,11 @@ class LeaderBoard extends Component {
   createTime = () =>{
     let hours = new Date().getHours(),
       minutes = new Date().getMinutes(),
-      day = new Date().getDay(),
+      day = new Date().getDate(),
       month = new Date().toLocaleString("en-us", { month: "long" }),
       year = new Date().getFullYear();
     return hours +':' + minutes + '; ' + day + ' ' + month + ' ' + year;
+
   };
 
   saveWinner = () => {
@@ -47,7 +48,7 @@ class LeaderBoard extends Component {
 
     axios.post('https://starnavi-frontend-test-task.herokuapp.com/winners', data)
       .then(response => {
-        this.setState({winners: response.data});
+        this.setState({winners: response.data})
       })
   };
 
