@@ -2,6 +2,7 @@
   "name": "game-in-dots",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sphariab.github.io/Game-In-Dots/",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
@@ -22,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://sphariab.github.io/Game-In-Dots/",
+
   "eslintConfig": {
     "extends": "react-app"
   },
