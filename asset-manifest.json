@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Game-In-Dots/static/js/main.faf1395b.chunk.js",
+    "main.js.map": "/Game-In-Dots/static/js/main.faf1395b.chunk.js.map",
+    "runtime-main.js": "/Game-In-Dots/static/js/runtime-main.f1db7bf2.js",
+    "runtime-main.js.map": "/Game-In-Dots/static/js/runtime-main.f1db7bf2.js.map",
+    "static/js/2.7014c14d.chunk.js": "/Game-In-Dots/static/js/2.7014c14d.chunk.js",
+    "static/js/2.7014c14d.chunk.js.map": "/Game-In-Dots/static/js/2.7014c14d.chunk.js.map",
+    "index.html": "/Game-In-Dots/index.html",
+    "precache-manifest.b9a6a7f1428e468427352b12306758e6.js": "/Game-In-Dots/precache-manifest.b9a6a7f1428e468427352b12306758e6.js",
+    "service-worker.js": "/Game-In-Dots/service-worker.js",
+    "static/js/2.7014c14d.chunk.js.LICENSE.txt": "/Game-In-Dots/static/js/2.7014c14d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1db7bf2.js",
+    "static/js/2.7014c14d.chunk.js",
+    "static/js/main.faf1395b.chunk.js"
+  ]
+}
